@@ -64,10 +64,10 @@ https://feedget-production-24a2.up.railway.app/
 
 ### Built with
 <ul>
-  <li><a href="https://reactjs.org/">ReactJS</a></li>
-  <li><a href="https://reactjs.org/](https://reactnative.dev/)">React Native</a></li>
-  <li><a href="https://reactjs.org/](https://nodejs.org/en/)">NodeJS</a></li>
-  <li><a href="https://reactjs.org](https://expo.dev/)/">Expo</a></li>
+  <li><a href="https://reactjs.org">ReactJS</a></li>
+  <li><a href="https://reactnative.dev">React Native</a></li>
+  <li><a href="https://nodejs.org/en">NodeJS</a></li>
+  <li><a href="https://expo.dev">Expo</a></li>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://jestjs.io/">JestJS</a></li>
 </ul>

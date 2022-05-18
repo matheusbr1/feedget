@@ -49,6 +49,14 @@ body params: {
 
 <hr />
 
+### Email
+
+When the user submits feedback, an email is sent to the app maintainer to inform them of new feedback.
+
+The dev email provider: <a href='https://mailtrap.io/'>MailTrap</a>
+
+<hr />
+
 ### Deployment
 
 #### Web
